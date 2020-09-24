@@ -1,0 +1,19 @@
+{
+  "name": "pathfinder-monster-cards",
+  "version": "1.0.0",
+  "description": "A simple program for generating printable monster cards for the Pathfinder 1e TTRPG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spooky-Owl-Tech/pathfinder-monster-cards.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Spooky-Owl-Tech/pathfinder-monster-cards/issues"
+  },
+  "homepage": "https://github.com/Spooky-Owl-Tech/pathfinder-monster-cards#readme"
+}
